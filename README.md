@@ -3,4 +3,4 @@ Opening this program will schedule a horse moment, and it will pop up occasional
 Easter eggs:
 -1/10 chance of 'howard existed' text to appear
 -1/100 chance of finding the golden horse
--1/10,000 chance of finding the unobtanium horse
+-1/10,000 chance of finding the unobtanium horse  
